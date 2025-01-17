@@ -1,0 +1,1 @@
+import{_ as o,c as t,l as c,o as r,k as n}from"./index-D50FFBti.js";const s={},_={class:"creative"};function a(i,d){const e=n("router-view");return r(),t("div",_,[c(e)])}const f=o(s,[["render",a]]);export{f as default};
